@@ -1,2 +1,2 @@
-# DIO Desafio de Repositório
-Desafio de projeto da DIO utilizando Git e GitHub. 
+# Links Úteis
+Repositório feito para compartilhar links úteis de diversas stacks.
