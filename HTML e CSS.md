@@ -1,5 +1,5 @@
 ## HTML
-Variedade de ícones - fontawesome.com
+Variedade de ícones - https://fontawesome.com/
 
 ## CSS
 Guia para Transitions - https://www.joshwcomeau.com/animation/css-transitions/
